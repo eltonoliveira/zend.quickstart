@@ -1,6 +1,13 @@
-INSTALL.txt
-LICENSE.txt
-README.txt
-demos/
-extras/documentation
+.
 
+.settings/*
+
+library/Zend/*
+
+library/ZendX/*
+
+.buildpath
+
+.project
+
+.zfproject.xml
